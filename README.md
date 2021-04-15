@@ -2,7 +2,8 @@
 
 ## Description
 
-Webapp based on API to help manage tasks and time. It provides user with variety of features which help to plan and manage tasks and time required to finish them.
+Webapp based on API, helps managing tasks and time. It provides user 
+with variety of features to plan tasks and time required to finish them.
 
 ## Features
 
