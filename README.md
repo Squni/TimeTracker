@@ -2,8 +2,8 @@
 
 ## Description
 
-Web app based on API, helps managing tasks and time. It provides user 
-with variety of features to plan tasks and time required to finish them.
+A web app that uses the API that allows the user to create tasks and add 
+subtasks along with setting the time required to complete them
 
 ## Features
 
